@@ -1,6 +1,8 @@
 # app-dev
 My first repository.
 
+**Created By: Manuel Cedric M. Dueñas**
+
 The Hunger Games Series 🔥
 --------------------------
 
